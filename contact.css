@@ -22,3 +22,10 @@ input {
     padding: 10px;
     border-radius: 10px;
 }
+
+button {
+    display: block;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 10px;
+}
