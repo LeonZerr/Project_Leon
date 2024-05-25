@@ -1,0 +1,47 @@
+.fighters {
+    justify-content: center;
+    padding: 5px;
+    margin-top: 50px;
+  }
+  
+  .fighters img {
+    width: 345px;
+    margin: 2px;
+  }
+
+  body {
+    background-color: #242424;
+    background-image: url(./img/stadiumraja.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  section {
+    padding: 10px;
+    border: 4px #000000 solid;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 70px;
+    background-color: #29262c;
+  }
+  
+  section img {
+    border: 2px #000000 solid;
+  }
+
+  #backhome {
+    text-align: center;
+    border: 1mm;
+    border-radius: 10px;
+    padding: 10px;
+  }
