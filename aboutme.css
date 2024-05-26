@@ -9,6 +9,11 @@
     margin: 2px;
   }
 
+  html {
+    scroll-padding-top: 46px;
+    scroll-behavior: smooth;
+  }
+  
   body {
     background-color: #242424;
     background-image: url(./img/stadiumraja.jpg);
