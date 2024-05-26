@@ -5,27 +5,23 @@ h1 {
 
 body {
     background-image: url(./img/leonfight1.JPG);
-    background-size: cover;
-}
-
-#Contact {
-    text-align: center;
-}
-
-#Contact form {
-    display: inline-block;
-}
-
-input {
-    display: block;
-    margin-bottom: 15px;
-    padding: 10px;
-    border-radius: 10px;
+     background-size: cover;
 }
 
 button {
-    display: block;
-    margin-bottom: 15px;
     padding: 10px;
     border-radius: 10px;
+    display: block;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+#logout {
+    text-align: center;
+    border: 1mm;
+    border-radius: 10px;
+}
+
+#logout form {
+   display: inline-block;
 }
