@@ -3,6 +3,12 @@ h1 {
     color: white;
 }
 
+h2 {
+    text-align: center;
+    color: white;
+}
+
+
 body {
     background-image: url(./img/leonfight1.JPG);
     background-size: cover;
