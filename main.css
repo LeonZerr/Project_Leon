@@ -1,124 +1,124 @@
 * {
-    box-sizing: border-box;
-  }
-  
-  html {
-    scroll-padding-top: 46px;
-    scroll-behavior: smooth;
-  }
-  
-  header {
-    background-color: #242424;
-    top: 0px;
-    position: sticky;
-  }
-  
-  nav ul {
-    display: flex;
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    justify-content: center;
-    width: 100%;
-  }
-  
-  nav a {
-    border: #242424 2px solid;
-    padding: 12px;
-    display: block;
-    color: white;
-    background-color: #242424;
-    text-decoration: none;
-  }
-  
-  nav a:hover {
-    text-decoration: solid underline white 1.5px;
-  }
-  
-  body {
-    background-color: #242424;
-    background-image: url(./img/stadiumraja.jpg);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: white;
-    text-align: center;
-    width: 60%;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  p {
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  
-  section {
-    padding: 10px;
-    border: 4px #000000 solid;
-    margin: auto;
-    text-align: center;
-    margin-bottom: 70px;
-    background-color: #29262c;
-  }
-  
-  section img {
-    border: 2px #000000 solid;
-  }
-  
-  #whatis-muaythai img:hover {
-    width: 600px;
-  }
-  
-  #history-mt img:hover {
-    width: 600px;
-  }
-  
-  #history-mt p {
-    font-family: Arial, Helvetica, sans-serif;
-  }
+  box-sizing: border-box;
+}
 
-  #traditions-mt ol {
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  
-  #traditions-mt img:hover {
-    width: 600px;
-  }
-  
-  #rules-mt ul {
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  
-  #styles-mt ol {
-    text-align: left;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  
-  .fighters {
-    justify-content: center;
-    padding: 5px;
-    margin-top: 50px;
-  }
-  
-  .fighters img {
-    width: 345px;
-    margin: 2px;
-  }
-  
-  footer {
-    display: table;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 50px;
-  }
-  
-  footer a {
-    color: white;
-    text-decoration: none;
-    background-color: #242424;
-  }
-  
-  footer a:hover {
-    text-decoration: solid underline white 1.5px;
-  }
+html {
+  scroll-padding-top: 46px;
+  scroll-behavior: smooth;
+}
+
+header {
+  background-color: #242424;
+  top: 0px;
+  position: sticky;
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  justify-content: center;
+  width: 100%;
+}
+
+nav a {
+  border: #242424 2px solid;
+  padding: 12px;
+  display: block;
+  color: white;
+  background-color: #242424;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: solid underline white 1.5px;
+}
+
+body {
+  background-color: #242424;
+  background-image: url(./img/stadiumraja.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+  padding: 10px;
+  border: 4px #000000 solid;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 70px;
+  background-color: #29262c;
+}
+
+section img {
+  border: 2px #000000 solid;
+}
+
+#whatis-muaythai img:hover {
+  width: 600px;
+}
+
+#history-mt img:hover {
+  width: 600px;
+}
+
+#history-mt p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#traditions-mt ol {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#traditions-mt img:hover {
+  width: 600px;
+}
+
+#rules-mt ul {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#styles-mt ol {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.fighters {
+  justify-content: center;
+  padding: 5px;
+  margin-top: 50px;
+}
+
+.fighters img {
+  width: 345px;
+  margin: 2px;
+}
+
+footer {
+  display: table;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+  background-color: #242424;
+}
+
+footer a:hover {
+  text-decoration: solid underline white 1.5px;
+}

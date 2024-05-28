@@ -1,27 +1,27 @@
 h1 {
-    text-align: center;
-    color: white;
+  text-align: center;
+  color: white;
 }
 
 body {
-    background-image: url(./img/leonfight12.jpg);
-    background-size: cover;
+  background-image: url(./img/leonfight12.jpg);
+  background-size: cover;
 }
 
 button {
-    padding: 10px;
-    border-radius: 10px;
-    display: block;
-    margin-bottom: 15px;
-    text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  display: block;
+  margin-bottom: 15px;
+  text-align: center;
 }
 
 #logout {
-    text-align: center;
-    border: 1mm;
-    border-radius: 10px;
+  text-align: center;
+  border: 1mm;
+  border-radius: 10px;
 }
 
 #logout form {
-   display: inline-block;
+  display: inline-block;
 }

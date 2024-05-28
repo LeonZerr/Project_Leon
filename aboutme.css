@@ -1,59 +1,59 @@
 .fighters {
-    justify-content: center;
-    padding: 5px;
-    margin-top: 50px;
-  }
-  
-  .fighters img {
-    width: 345px;
-    margin: 2px;
-  }
+  justify-content: center;
+  padding: 5px;
+  margin-top: 50px;
+}
 
-  html {
-    scroll-padding-top: 46px;
-    scroll-behavior: smooth;
-  }
-  
-  body {
-    background-color: #242424;
-    background-image: url(./img/stadiumraja.jpg);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: white;
-    text-align: center;
-    width: 60%;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  p {
-    font-family: Arial, Helvetica, sans-serif;
-  }
+.fighters img {
+  width: 345px;
+  margin: 2px;
+}
 
-  section {
-    padding: 10px;
-    border: 4px #000000 solid;
-    margin: auto;
-    text-align: center;
-    margin-bottom: 70px;
-    background-color: #29262c;
-  }
-  
-  section img {
-    border: 2px #000000 solid;
-  }
+html {
+  scroll-padding-top: 46px;
+  scroll-behavior: smooth;
+}
 
-  button {
-    display: block;
-    margin-bottom: 15px;
-    padding: 10px;
-    border-radius: 10px;
-  }
+body {
+  background-color: #242424;
+  background-image: url(./img/stadiumraja.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
 
-  #backhome {
-    margin-bottom: 15px;
-    margin-top: 25px;
-    display: grid;
-    place-items: center
-  }
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+  padding: 10px;
+  border: 4px #000000 solid;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 70px;
+  background-color: #29262c;
+}
+
+section img {
+  border: 2px #000000 solid;
+}
+
+button {
+  display: block;
+  margin-bottom: 15px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#backhome {
+  margin-bottom: 15px;
+  margin-top: 25px;
+  display: grid;
+  place-items: center;
+}

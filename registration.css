@@ -1,24 +1,24 @@
 h1 {
-    text-align: center;
-    color: white;
+  text-align: center;
+  color: white;
 }
 
 body {
-    background-image: url(./img/leonfight1.JPG);
-    background-size: cover;
+  background-image: url(./img/leonfight1.JPG);
+  background-size: cover;
 }
 
 #Create {
-    text-align: center;
+  text-align: center;
 }
 
 #Create form {
-    display: inline-block;
+  display: inline-block;
 }
 
 input {
-    display: block;
-    margin-bottom: 15px;
-    padding: 10px;
-    border-radius: 10px;
+  display: block;
+  margin-bottom: 15px;
+  padding: 10px;
+  border-radius: 10px;
 }
