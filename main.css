@@ -73,6 +73,10 @@
     width: 600px;
   }
   
+  #history-mt p {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
   #traditions-mt ol {
     font-family: Arial, Helvetica, sans-serif;
   }
