@@ -1,4 +1,3 @@
-# Project_Leon
+# Project_Leon 
 
-This project contains learning content about 'Muay Thai', as well as the possibilty to book training sessions or individualized training/diet plans!
-
+This is my first website, created during the orientation course at DCI. It is simply built with HTML and CSS and contains information about Thailand's national sport 'Muay Thai'.
